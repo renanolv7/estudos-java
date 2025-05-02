@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.renan.primeiroTeste</groupId>
-	<artifactId>testeSpring</artifactId>
+	<artifactId>primeiro-codigo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>testeSpring</name>
 	<description>Demo project for Spring Boot</description>
