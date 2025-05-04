@@ -14,7 +14,7 @@ Lombok (para redução de boilerplate code)
 
 📌 Objetivos de Aprendizado
 
-Configuração básica do Spring Boot
+Configuração do Spring Boot
 <br>
 Criação de APIs REST
 <br>
