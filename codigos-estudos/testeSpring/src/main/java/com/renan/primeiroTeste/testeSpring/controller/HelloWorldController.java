@@ -19,6 +19,7 @@ public class HelloWorldController {
 
     @PostMapping("")
     public String helloWorldPost(@RequestBody User body){
+
         return "Hello Word " + body.getName();
     }
 
