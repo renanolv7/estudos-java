@@ -11,8 +11,11 @@ import java.util.Random;
 @Service
 public class ConselhoService {
 
+    // lista do tipo Conselho
     private List<Conselho> conselhos;
-    private final Random random = new Random();
+
+    // gerar valor randomico
+    private Random random = new Random();
 
     @PostConstruct
     public void init(){

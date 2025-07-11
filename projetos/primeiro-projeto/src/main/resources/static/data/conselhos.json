@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Fulano",
+    "conselho": "Utilize @RequestMapping para mapear requisições",
+    "tipo": "dicas gerais"
+  },
+  {
+    "name": "Ciclano",
+    "conselho": "Prefira usar Optional para evitar NullPointerException",
+    "tipo": "boas práticas"
+  },
+  {
+    "name": "Beltrano",
+    "conselho": "Mantenha seus métodos pequenos e com responsabilidade única",
+    "tipo": "clean code"
+  },
+  {
+    "name": "Maria",
+    "conselho": "Use logs adequadamente para facilitar a depuração",
+    "tipo": "debugging"
+  },
+  {
+    "name": "João",
+    "conselho": "Escreva testes unitários para cada funcionalidade",
+    "tipo": "testes"
+  },
+  {
+    "name": "Ana",
+    "conselho": "Versionamento semântico ajuda no controle de versões",
+    "tipo": "versionamento"
+  },
+  {
+    "name": "Carlos",
+    "conselho": "Documente seu código como se quem for ler não soubesse nada",
+    "tipo": "documentação"
+  },
+  {
+    "name": "Patrícia",
+    "conselho": "Evite acoplamento forte entre classes",
+    "tipo": "design patterns"
+  },
+  {
+    "name": "Roberto",
+    "conselho": "Use padrões de nomenclatura consistentes",
+    "tipo": "boas práticas"
+  },
+  {
+    "name": "Juliana",
+    "conselho": "Faça commits atômicos e com mensagens claras",
+    "tipo": "controle de versão"
+  }
+]
